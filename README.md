@@ -5,8 +5,8 @@ Very good implementation of optimization for fixed point quantization using Neur
 
 # Deep Log-Likelihood Ratio (L-Value) Quantization
 Common repository for the papers:
-- *Deep Learning-Based L-Value Quantization for Gray-Coded Modulation*
-- *Deep Log-Likelihood Ratio Quantization*
+- *Deep Learning-Based L-Value Quantization for Gray-Coded Modulation*  https://arxiv.org/abs/1906.07849
+- *Deep Log-Likelihood Ratio Quantization*   https://arxiv.org/abs/1903.04656
 
 Marius Arvinte, Ahmed H. Tewfik and Sriram Vishwanath, University of Texas at Austin.
 
