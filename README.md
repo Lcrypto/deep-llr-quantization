@@ -1,3 +1,8 @@
+forked from mariusarvinte/deep-llr-quantization
+
+Very good implementation of optimization for fixed point quantization using Neural Network. 
+
+
 # Deep Log-Likelihood Ratio (L-Value) Quantization
 Common repository for the papers:
 - *Deep Learning-Based L-Value Quantization for Gray-Coded Modulation*
