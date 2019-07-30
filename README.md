@@ -1,6 +1,6 @@
 forked from mariusarvinte/deep-llr-quantization
 
-Very good implementation of optimization for fixed point quantization using Neural Network. 
+Very good implementation of optimization for fixed point quantization compression using Neural Network. 
 
 
 # Deep Log-Likelihood Ratio (L-Value) Quantization
